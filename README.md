@@ -26,6 +26,40 @@ Determinar la solucion de problemas que implique la aplicacion de la ley de Ohm 
 ## 3. Explicacion y resolución de ejercicios
 
 
+SECCIÓN 17–1 Impedancia de circuitos RLC en serie
+
+2. Determine la impedancia en la figura 17-59 y exprésela en forma polar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
  ## 4. Video
